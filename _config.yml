@@ -1,6 +1,18 @@
-title: Sumit Vashistha
+title: <p align="center"> Sumit Vashistha </p>
 logo: /assets/img/MyPhoto.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://zety.com/profile/sumit-vashistha">Resume</a> |
+  <a href="https://www.linkedin.com/in/sumitvashistha/">LinkedIn</a> |
+  <a href="https://github.com/sumitvashistha">GitHub</a>
+  
+  <br>   
+  I'm working as an Application Architect in a Product based firm.
+  Primarily focussing on SAAS based product deployed on AWS cloud Platform.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
